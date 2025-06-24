@@ -1,5 +1,5 @@
 ## Hi there ! I'm Ritvik Shrivastava👋
-A final-year Computer Science student specializing in AI/ML, driven by the challenege of transforming raw data into intelligent solutions. My work sits at the intersection of theoretical machine learning and applied engineering—whether building vision pipelines that decode athletic performance or designing sentiment models that predict market movements.
+A final-year Computer Science student specializing in AI/ML, driven by the challenge of transforming raw data into intelligent solutions. My work sits at the intersection of theoretical machine learning and applied engineering—whether building vision pipelines that decode athletic performance or designing sentiment models that predict market movements.
 
 
 ## 🛠️ TECH STACK
