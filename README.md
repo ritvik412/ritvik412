@@ -26,8 +26,11 @@ A final-year Computer Science student specializing in AI/ML, driven by the chall
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-6E40C9?style=for-the-badge&logo=replit&logoColor=white)
 
-**📊 GitHub Stats**
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ritvik412&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ritvik412)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical)](https://github.com/ritvik412)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ritvik412&theme=radical)](https://git.io/streak-stats)
+&nbsp;
+<p align="center">
 
+**📊 GitHub Stats**
+
+[![](https://github-readme-stats.vercel.app/api?username=ritvik412&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ritvik412)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ritvik412&theme=radical&hide_border=false)](https://git.io/streak-stats)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical&hide_border=false)](https://github.com/ritvik412)
