@@ -27,7 +27,7 @@ A final-year Computer Science student specializing in AI/ML, driven by the chall
 ![Replit](https://img.shields.io/badge/Replit-6E40C9?style=for-the-badge&logo=replit&logoColor=white)
 
 **📊 GitHub Stats**
-[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=RitvikShrivastava&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/RitvikShrivastava)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RitvikShrivastava&layout=compact&theme=radical)](https://github.com/RitvikShrivastava)
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RitvikShrivastava&theme=radical)](https://git.io/streak-stats)
+[![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ritvik412&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ritvik412)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical)](https://github.com/ritvik412)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ritvik412&theme=radical)](https://git.io/streak-stats)
 
