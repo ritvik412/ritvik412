@@ -31,7 +31,7 @@ A final-year Computer Science student specializing in AI/ML, driven by the chall
 
 **📊 GitHub Stats**
 
-[![](https://github-readme-stats.vercel.app/api?username=ritvik412&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ritvik412)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ritvik412&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- Vercel demo -->
 [![GitHub Streak](https://streak-stats.vercel.app/?user=ritvik412&theme=radical&hide_border=false)](https://git.io/streak-stats)
 <br/>
