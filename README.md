@@ -40,3 +40,7 @@ A final-year Computer Science student specializing in AI/ML, driven by the chall
 <br/>
 <!-- Top Languages -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical&hide_border=false&langs_count=8)](https://github.com/ritvik412)
+---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
