@@ -32,7 +32,7 @@ A final-year Computer Science student specializing in AI/ML, driven by the chall
 &nbsp;
 <p align="center">
 
-**📊 GitHub Stats**
+## **📊 GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=ritvik412&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <!-- Vercel demo -->
