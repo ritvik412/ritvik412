@@ -49,8 +49,11 @@ A final-year Computer Science student specializing in AI/ML, driven by the chall
 
 <br/>
 
-<!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical&hide_border=false&langs_count=8)](https://github.com/ritvik412)
+<p align="center">
+  <a href="https://github.com/ritvik412">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" width="460" />
+  </a>
+</p>
 
 ---
 ---
