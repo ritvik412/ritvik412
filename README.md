@@ -32,30 +32,26 @@ A final-year Computer Science student specializing in AI/ML, driven by the chall
 &nbsp;
 <p align="center">
 
-## 📊 GitHub Stats
+## **📊 GitHub Stats**
 
-<table cellpadding="0" cellspacing="0">
+<table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ritvik412&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="460" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ritvik412&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
     </td>
-    <td align="center">
+    <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.vercel.app/?user=ritvik412&theme=radical&hide_border=false" alt="GitHub Streak" width="460" />
+        <img src="https://streak-stats.vercel.app/?user=ritvik412&theme=radical&hide_border=false" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
 </table>
 
-<br/>
-
+<!-- Top Languages -->
 <p align="center">
-  <a href="https://github.com/ritvik412">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" width="460" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvik412&layout=compact&theme=radical&hide_border=false&langs_count=8" width=40% />
 </p>
 
----
 ---
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
